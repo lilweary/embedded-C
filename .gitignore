@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/10d-8x8BouncingPixel/.vs
+/10d-8x8BouncingPixel/Dependencies
+/10d-8x8BouncingPixel/x64
+/10d-8x8BouncingPixel/10-8x8Game/x64/Debug
+
